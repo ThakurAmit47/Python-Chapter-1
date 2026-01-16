@@ -6,7 +6,7 @@ print(name.startswith("Am")) #ye start ka dekhta hai
 # uper dono fucntion capital ki jagah small likhne se bhi wrong kar dete hai
 print(name.capitalize()) #ye first letter ko capital kare bss
 
-# Python String Most Used Functions (Beginner Friendly)
+# Python String Most Used Functions
 # String = text data type
 
 text = "  Hello Python World  "
